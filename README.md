@@ -1,1 +1,2 @@
 # git_practice
+# ADDING SOME EXTRA INFO FOR TASK 6
