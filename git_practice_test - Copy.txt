@@ -1,0 +1,12 @@
+def get_reversed_list(list1):
+    lst_res = []
+
+    for number in reversed(list1):
+        lst_res.append(number)
+
+    return lst_res
+
+
+if __name__ == "__main__":
+    list1 = [10, 20, 30, 40, 50]
+    print(get_reversed_list(list1))
