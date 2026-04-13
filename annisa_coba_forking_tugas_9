@@ -1,0 +1,6 @@
+public class CobaJava {
+    static void main() {
+        System.out.println("Hello Annisa");
+
+    }
+}
